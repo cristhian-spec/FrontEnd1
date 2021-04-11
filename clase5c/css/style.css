@@ -1,0 +1,47 @@
+body {
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #ddd;
+    line-height: 3;
+    text-align:  center;
+}
+section{
+    text-align:  center;
+}
+h1,h2 {
+   
+    background-color: #BFBFBF;
+}
+h1 {
+    color: #1F497D;
+    font-size: 24px; 
+    text-align: center;
+}
+h2 {
+    color: #632423;
+    font-size: 18px;
+    text-align: center;
+}
+li {
+    font-style: normal;
+    font-variant: small-caps;
+    text-align: center;
+}
+.item-detail {
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+footer{
+    background-color: #1F497D;
+    color: #ddd;
+    font-size: 24px; 
+    text-align: center;
+}
+.img-link{
+    width: 20px;
+    height: 20px;
+}

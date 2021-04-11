@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.fondo-pie{
+    background-image: url(/img/clase6/img/lemon-pie.png);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 330px;
+    color: white;
+}
+.fas{
+    color:red;
+}
+
+
+
+
